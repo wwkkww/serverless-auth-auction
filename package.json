@@ -1,0 +1,14 @@
+{
+  "name": "auth-service",
+  "version": "1.0.0",
+  "author": "Kevin",
+  "description": "Demonstration of protecting API gateway endpoints with auth0",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "jsonwebtoken": "^8.1.0"
+  },
+  "devDependencies": {
+    "serverless-bundle": "^1.3.3"
+  }
+}
